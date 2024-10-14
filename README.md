@@ -1,5 +1,5 @@
 # percolation
-Percolation Simulation Program
+Percolation Simulation Program:
 This Percolation program simulates the flow of fluid through a grid-based system, utilizing the Weighted Quick Union algorithm for efficient connectivity checks. It models a grid of sites, where each site can be either open or blocked. The program can determine whether a fluid can percolate from the top to the bottom of the grid based on the open sites.
 
 The percolation model can be applied in various fields, including:
